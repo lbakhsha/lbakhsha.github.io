@@ -62,9 +62,10 @@ html, body {
   margin: 0;
   background: url(images/subwaybackground.jpg)
 	center center fixed no-repeat;
-	background-size: cover;
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+	background-size: 30%;
+	font-family: swear-text,serif;
+	font-weight: 300;
+	font-style: normal;
 	
 	
 }
@@ -75,7 +76,7 @@ html, body {
 	padding: 2%;
     margin: 100px auto;
 	border-radius: 30px 150px;
- 	background: rgba(231, 121, 185, 0.6); /*this uses opacity of 60% for the background color*/
+ 	background: rgba(231, 121, 185, 0.60); /*this uses opacity of 60% for the background color*/
 	text-align: center;
 	border: 2px solid rgb(0, 0, 0);
 }
@@ -99,6 +100,7 @@ p {
 nav{
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 1.2em;
+
 	width: 400px;
 	margin: 0 auto;
 	border: dashed turquoise;
