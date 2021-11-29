@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url(images/subwaybackground.jpg)
+  background: url(subwaybackground.jpg)
 	center center fixed no-repeat;
 	background-size: 30%;
 	font-family: swear-text,serif;
