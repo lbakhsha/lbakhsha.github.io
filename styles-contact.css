@@ -62,7 +62,7 @@ html, body {
   margin: 0;
   background: url(images/subwaybackground.jpg)
 	center center fixed no-repeat;
-	background-size: 30%;
+	background-size: cover;
 	font-family: swear-text,serif;
 	font-size: large;
 	font-weight: 300;
