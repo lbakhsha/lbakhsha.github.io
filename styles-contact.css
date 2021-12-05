@@ -83,10 +83,16 @@ html, body {
 	border: 2px solid rgb(0, 0, 0);
 }
 
-   
+#circle {
+	width: 100px;
+	height: 100px;
+	background: rgba(231, 121, 185, 0.60)
+  }
+
 #logo {
     margin-bottom: 30px;
 	margin-left: 5in;
+	margin-right: 5in;
 	margin-top: 20px;
 	text-align: left;
 }
