@@ -99,6 +99,7 @@ html, body {
 /*deleted h1 and h2*/
 h2 {	
 	font-family: swear-text,serif;
+	margin-bottom: 3in;
 	font-size: 2.03em;
 	font-weight: 300;
 	font-style: normal;
