@@ -109,7 +109,7 @@ p {
 	font-size: large;
 	font-weight: 300;
 	font-style: normal;
-	margin-bottom: .6in;
+	margin-bottom: .9in;
 	color:#fff
 }
     
@@ -124,6 +124,7 @@ nav{
 	border-width: 3px 0;
 	text-align: center;
 	margin-top: 1.5em;
+	margin-bottom: 3in;
 	}
     
 nav li{
