@@ -116,7 +116,7 @@ p {
 nav{
 	font-family: swear-text,serif;
 	font-size: 1.2em;
-	color: #fff;
+	color: rgb(255, 255, 255);
 
 	width: 400px;
 	margin: 0 auto;
