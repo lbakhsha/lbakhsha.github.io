@@ -76,7 +76,7 @@ html, body {
 .center {
     width: 40%;
 	max-width: 800px;
-	height: 6in;
+	height: 5in;
 	padding: 2%;
     margin: 100px auto;
 	border-radius: 30px 150px;
@@ -87,7 +87,7 @@ html, body {
 
 #logo {
     margin-bottom: 30px;
-	margin-left: 1.8in;
+	margin-left: 1in;
 	margin-top: 30px;
 	text-align: left;
 	
