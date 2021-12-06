@@ -74,8 +74,9 @@ html, body {
 
 
 .center {
-    width: 50%;
+    width: 40%;
 	max-width: 800px;
+	height: 2in;
 	padding: 2%;
     margin: 100px auto;
 	border-radius: 30px 150px;
@@ -86,7 +87,7 @@ html, body {
 
 #logo {
     margin-bottom: 30px;
-	margin-left: 2in;
+	margin-left: 1.8in;
 	margin-top: 30px;
 	text-align: left;
 	
@@ -95,7 +96,7 @@ html, body {
 /*deleted h1 and h2*/
 h2 {	
 	font-family: swear-text,serif;
-	margin-bottom: .2in;
+	margin-bottom: .3in;
 	font-size: 2.03em;
 	font-weight: 300;
 	font-style: normal;
