@@ -112,7 +112,7 @@ html, body {
 /*deleted h1 and h2*/
 h2 {	
 	font-family: swear-text,serif;
-	margin-bottom: 3in;
+	margin-bottom: 3px;
 	font-size: 2.03em;
 	font-weight: 300;
 	font-style: normal;
