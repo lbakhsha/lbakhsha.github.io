@@ -76,6 +76,7 @@ html, body {
 .center {
     width: 40%;
 	max-width: 800px;
+	margin-top: 2in;
 	height: 5in;
 	padding: 2%;
     margin: 100px auto;
