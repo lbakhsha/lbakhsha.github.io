@@ -71,19 +71,7 @@ html, body {
 	
 	
 }
-.fade-in {
-	animation: fadeIn 2s;
-  	opacity: 1;
-}
 
-@keyframes fadeIn {
-  from {
-  	opacity: 0;
-  }
-  to {
- 	opacity: 1;
-  }
-}
 
 .center {
     width: 80%;
@@ -96,23 +84,17 @@ html, body {
 	border: 2px solid rgb(0, 0, 0);
 }
 
-#circle {
-	width: 100px;
-	height: 100px;
-	background: rgba(231, 121, 185, 0.60)
-  }
-
 #logo {
     margin-bottom: 30px;
-	margin-right: 2px;
 	margin-top: 20px;
 	text-align: left;
+	
 }
 
 /*deleted h1 and h2*/
 h2 {	
 	font-family: swear-text,serif;
-	margin-bottom: 3px;
+	margin-bottom: 1px;
 	font-size: 2.03em;
 	font-weight: 300;
 	font-style: normal;
